@@ -6,7 +6,7 @@ s = json.loads(str((requests.get('https://beloborod.ru/keksik.php').text)))
 
 input('Нажмите Enter')
 print(s)
-input('Нажмите Enter')
+input('Нажми Enter пидрила')
 
 
 def Dsum(dic, sum=0):
